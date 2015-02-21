@@ -1,0 +1,17 @@
+{
+  "name": "uniq-blocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "uniq-blocks.js",
+  "dependencies": {
+    "block-stream": "^0.0.7",
+    "inherits": "^2.0.1",
+    "lazy": "^1.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
