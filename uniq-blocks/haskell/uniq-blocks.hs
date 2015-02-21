@@ -1,7 +1,7 @@
 import           Control.Monad
 import qualified Data.ByteString.Lazy as LB
 import           Data.Foldable
-import          Data.HashMap.Strict hiding (foldl')
+import           Data.HashMap.Strict hiding (foldl')
 import           Data.Int
 import qualified Data.List            as DL
 import           System.Environment
