@@ -2,3 +2,5 @@ node_modules
 .cabal-sandbox
 dist
 large_random.txt
+a.out
+target/
