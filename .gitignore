@@ -4,3 +4,5 @@ dist
 large_random.txt
 a.out
 target/
+*.hi
+*.o
